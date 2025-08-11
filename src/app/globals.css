@@ -195,7 +195,6 @@ body {
 
 /* Theme-specific styles */
 .theme-default {
-  /* Default rain theme styles */
   --glass-bg: rgba(255, 255, 255, 0.1);
   --text-primary: #ffffff;
   --text-secondary: #e5e7eb;
